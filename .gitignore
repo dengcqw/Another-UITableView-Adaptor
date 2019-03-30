@@ -1,3 +1,4 @@
-.xcuserstate
+*.xcuserstate
 Pod/
 Examples/TableViewDemo/Pods/
+.DS_Store
