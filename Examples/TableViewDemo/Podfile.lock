@@ -1,0 +1,16 @@
+PODS:
+  - TableViewAdaptor (0.0.1)
+
+DEPENDENCIES:
+  - TableViewAdaptor (from `../../TableViewAdaptor.podspec`)
+
+EXTERNAL SOURCES:
+  TableViewAdaptor:
+    :path: "../../TableViewAdaptor.podspec"
+
+SPEC CHECKSUMS:
+  TableViewAdaptor: 5fe1d929a4bab7cc1b0439fb49c2da4a1176257b
+
+PODFILE CHECKSUM: bf8e8b3afb15890d0951493d00e1fd61fa734acc
+
+COCOAPODS: 1.5.3
